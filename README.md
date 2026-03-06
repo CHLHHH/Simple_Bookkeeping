@@ -1,0 +1,2 @@
+# Simple_Bookkeeping
+基于安卓基础知识点开发的个人记账工具
